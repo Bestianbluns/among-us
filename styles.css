@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#conteiner{
+    width: 100vw;
+    height: 100vh;
+    background-color: #34495e;
+    user-select: none;
+}
+#floppa{
+    height: 25vh;
+    visibility: hidden;
+    user-select: none;
+    position: absolute;
+}
+#meow{
+    display: none
+}
